@@ -2,9 +2,9 @@
 <p>Follow these steps to set up and run this project:</p>
 <ol>
     <li>Clone this repository:</li>
-    <pre><code>git clone [repository_url]</code></pre>
+    <pre><code>git clone https://github.com/r6rap/SI-Perpustakaan.git</code></pre>
     <li>Navigate to the project directory:</li>
-    <pre><code>cd [project_folder]</code></pre>
+    <pre><code>cd perpustakaan</code></pre>
     <li>Install dependencies:</li>
     <pre><code>
     npm install
